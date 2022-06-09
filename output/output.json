@@ -16,10 +16,11 @@
   },
   "data": [
     {
-      "id": "gitModule\\1-setupGit",
+      "id": "gitModule__1-setupGit",
       "contents": "<h1 id=\"setup\">Setup</h1>\n<h2 id=\"setup-git\">Setup Git</h2>\n<p><a href=\"https://github.com\">Link to the github repo</a></p>\n",
       "moduleId": "setupGit",
       "title": "Setup Git",
+      "moduleDescription": "Setup git description",
       "tags": [
         "Git",
         "GitHub"
@@ -27,35 +28,37 @@
       "dependencies": [],
       "tasks": [
         {
-          "TaskId": "Task1",
-          "TaskDescription": "Task 1 Description"
+          "taskId": "Task1",
+          "taskDescription": "Task 1 Description"
         },
         {
-          "TaskId": "Task2",
-          "TaskDescription": "Task 2 Description"
+          "taskId": "Task2",
+          "taskDescription": "Task 2 Description"
         },
         {
-          "TaskId": "Task3",
-          "TaskDescription": "Task 3 Description"
+          "taskId": "Task3",
+          "taskDescription": "Task 3 Description"
         },
         {
-          "TaskId": "Task4",
-          "TaskDescription": "Task 4 Description"
+          "taskId": "Task4",
+          "taskDescription": "Task 4 Description"
         }
       ],
       "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
       "meta": {
-        "relativePath": "gitModule\\1-setupGit.html",
-        "createdAt": "2022-06-09T14:34:19.746Z",
-        "lastModified": "2022-06-09T14:34:19.746Z",
-        "size": 461,
-        "formattedSize": "461 Bytes"
+        "relativePath": "gitModule/1-setupGit.html",
+        "createdAt": "2022-06-09T14:41:39.218Z",
+        "lastModified": "2022-06-09T14:41:39.218Z",
+        "size": 484,
+        "formattedSize": "484 Bytes"
       }
     },
     {
-      "id": "learningGit",
+      "id": "gitModule__2-learningGit",
       "contents": "<h1 id=\"git\">Git</h1>\n<h2 id=\"learning-git\">Learning Git</h2>\n<p><a href=\"https://github.com\">Link to the github repo</a></p>\n",
+      "moduleId": "learningGit",
       "title": "Introduce Git",
+      "moduleDescription": "Learn git module description",
       "tags": [
         "Git",
         "GitHub"
@@ -63,13 +66,31 @@
       "dependencies": [
         "setupGit"
       ],
+      "tasks": [
+        {
+          "taskId": "Task5",
+          "taskDescription": "Task 5 Description"
+        },
+        {
+          "taskId": "Task6",
+          "taskDescription": "Task 6 Description"
+        },
+        {
+          "taskId": "Task7",
+          "taskDescription": "Task 7 Description"
+        },
+        {
+          "taskId": "Task8",
+          "taskDescription": "Task 8 Description"
+        }
+      ],
       "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
       "meta": {
-        "relativePath": "gitModule\\2-learningGit.html",
-        "createdAt": "2022-06-09T14:32:27.095Z",
-        "lastModified": "2022-06-09T13:55:29.768Z",
-        "size": 182,
-        "formattedSize": "182 Bytes"
+        "relativePath": "gitModule/2-learningGit.html",
+        "createdAt": "2022-06-09T14:41:39.218Z",
+        "lastModified": "2022-06-09T14:41:39.218Z",
+        "size": 508,
+        "formattedSize": "508 Bytes"
       }
     },
     {
@@ -84,11 +105,11 @@
       "dependencies": [],
       "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
       "meta": {
-        "relativePath": "javaModule\\1-setupSpringBoot.html",
-        "createdAt": "2022-05-13T11:16:50.680Z",
-        "lastModified": "2022-05-13T11:14:17.640Z",
-        "size": 223,
-        "formattedSize": "223 Bytes"
+        "relativePath": "javaModule/1-setupSpringBoot.html",
+        "createdAt": "2022-06-09T14:41:39.218Z",
+        "lastModified": "2022-06-09T14:41:39.218Z",
+        "size": 208,
+        "formattedSize": "208 Bytes"
       }
     },
     {
@@ -105,11 +126,11 @@
       ],
       "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
       "meta": {
-        "relativePath": "javaModule\\2-unitTesting.html",
-        "createdAt": "2022-05-13T11:16:48.666Z",
-        "lastModified": "2022-05-13T11:14:17.641Z",
-        "size": 218,
-        "formattedSize": "218 Bytes"
+        "relativePath": "javaModule/2-unitTesting.html",
+        "createdAt": "2022-06-09T14:41:39.218Z",
+        "lastModified": "2022-06-09T14:41:39.218Z",
+        "size": 203,
+        "formattedSize": "203 Bytes"
       }
     },
     {
@@ -126,11 +147,11 @@
       ],
       "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
       "meta": {
-        "relativePath": "javaModule\\3-setupServer.html",
-        "createdAt": "2022-05-13T11:16:47.653Z",
-        "lastModified": "2022-05-13T11:14:17.651Z",
-        "size": 239,
-        "formattedSize": "239 Bytes"
+        "relativePath": "javaModule/3-setupServer.html",
+        "createdAt": "2022-06-09T14:41:39.218Z",
+        "lastModified": "2022-06-09T14:41:39.218Z",
+        "size": 224,
+        "formattedSize": "224 Bytes"
       }
     },
     {
@@ -148,11 +169,11 @@
       ],
       "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
       "meta": {
-        "relativePath": "javaModule\\4-authentication.html",
-        "createdAt": "2022-05-13T12:54:55.762Z",
-        "lastModified": "2022-05-13T12:54:55.762Z",
-        "size": 280,
-        "formattedSize": "280 Bytes"
+        "relativePath": "javaModule/4-authentication.html",
+        "createdAt": "2022-06-09T14:41:39.218Z",
+        "lastModified": "2022-06-09T14:41:39.218Z",
+        "size": 265,
+        "formattedSize": "265 Bytes"
       }
     }
   ]
