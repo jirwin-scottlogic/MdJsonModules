@@ -1,0 +1,10 @@
+{
+    "name": "markdown-json",
+    "cwd": "./",
+    "src": "modules/",
+    "filePattern": "**/*.md",
+    "ignore": "*(icon|input)*",
+    "dist": "output/output.json",
+    "metadata": true,
+    "deterministicOrder": false
+}
