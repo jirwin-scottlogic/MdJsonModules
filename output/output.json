@@ -47,8 +47,8 @@
       "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-06-09T14:41:39.218Z",
-        "lastModified": "2022-06-09T14:41:39.218Z",
+        "createdAt": "2022-06-09T15:50:34.590Z",
+        "lastModified": "2022-06-09T15:50:34.590Z",
         "size": 484,
         "formattedSize": "484 Bytes"
       }
@@ -87,93 +87,10 @@
       "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-06-09T14:41:39.218Z",
-        "lastModified": "2022-06-09T14:41:39.218Z",
+        "createdAt": "2022-06-09T15:50:34.590Z",
+        "lastModified": "2022-06-09T15:50:34.590Z",
         "size": 508,
         "formattedSize": "508 Bytes"
-      }
-    },
-    {
-      "id": "setupSpring",
-      "contents": "<h1 id=\"setup-spring\">Setup Spring</h1>\n<h2 id=\"setting-up-a-spring-boot-application\">Setting up a Spring Boot Application</h2>\n<p><a href=\"https://github.com\">Link to the github repo</a></p>\n",
-      "title": "Setup Spring",
-      "tags": [
-        "Java",
-        "Backend",
-        "SpringBoot"
-      ],
-      "dependencies": [],
-      "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
-      "meta": {
-        "relativePath": "javaModule/1-setupSpringBoot.html",
-        "createdAt": "2022-06-09T14:41:39.218Z",
-        "lastModified": "2022-06-09T14:41:39.218Z",
-        "size": 208,
-        "formattedSize": "208 Bytes"
-      }
-    },
-    {
-      "id": "unitTesting",
-      "contents": "<h1 id=\"unit-testing\">Unit Testing</h1>\n<h2 id=\"setting-up-unit-testing\">Setting up Unit Testing</h2>\n<p><a href=\"https://github.com\">Link to the github repo</a></p>\n",
-      "title": "Unit Testing",
-      "tags": [
-        "Java",
-        "Mockito",
-        "Junit"
-      ],
-      "dependencies": [
-        "setupSpring"
-      ],
-      "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
-      "meta": {
-        "relativePath": "javaModule/2-unitTesting.html",
-        "createdAt": "2022-06-09T14:41:39.218Z",
-        "lastModified": "2022-06-09T14:41:39.218Z",
-        "size": 203,
-        "formattedSize": "203 Bytes"
-      }
-    },
-    {
-      "id": "setupServer",
-      "contents": "<h1 id=\"setup-server\">Setup Server</h1>\n<h2 id=\"setting-up-a-server-through-spring-boot\">Setting up a server through Spring Boot</h2>\n<p><a href=\"https://github.com\">Link to the github repo</a></p>\n",
-      "title": "Setup Server",
-      "tags": [
-        "Java",
-        "SpringBoot",
-        "Backend"
-      ],
-      "dependencies": [
-        "setupSpring"
-      ],
-      "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
-      "meta": {
-        "relativePath": "javaModule/3-setupServer.html",
-        "createdAt": "2022-06-09T14:41:39.218Z",
-        "lastModified": "2022-06-09T14:41:39.218Z",
-        "size": 224,
-        "formattedSize": "224 Bytes"
-      }
-    },
-    {
-      "id": "authentication",
-      "contents": "<h1 id=\"setup-authentication\">Setup Authentication</h1>\n<h2 id=\"setting-up-authentication-using-spring-security\">Setting up authentication using Spring Security</h2>\n<p><a href=\"https://github.com\">Link to the github repo</a></p>\n",
-      "title": "Authentication",
-      "tags": [
-        "Java",
-        "SpringBoot",
-        "SpringSecurity"
-      ],
-      "dependencies": [
-        "unitTesting",
-        "setupServer"
-      ],
-      "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
-      "meta": {
-        "relativePath": "javaModule/4-authentication.html",
-        "createdAt": "2022-06-09T14:41:39.218Z",
-        "lastModified": "2022-06-09T14:41:39.218Z",
-        "size": 265,
-        "formattedSize": "265 Bytes"
       }
     }
   ]
