@@ -1,14 +1,15 @@
 ---
 moduleId: setupGit
 title: Setup Git
+moduleDescription: Setup git description
 tags:
   - Git
   - GitHub
 dependencies: []
-tasks: [{"TaskId": "Task1", "TaskDescription": "Task 1 Description" }, 
-        {"TaskId": "Task2", "TaskDescription": "Task 2 Description" },
-        {"TaskId": "Task3", "TaskDescription": "Task 3 Description" }, 
-        {"TaskId": "Task4", "TaskDescription": "Task 4 Description" }]
+tasks: [{"taskId": "Task1", "taskDescription": "Task 1 Description" }, 
+        {"taskId": "Task2", "taskDescription": "Task 2 Description" },
+        {"taskId": "Task3", "taskDescription": "Task 3 Description" }, 
+        {"taskId": "Task4", "taskDescription": "Task 4 Description" }]
 ---
 
 # Setup 
