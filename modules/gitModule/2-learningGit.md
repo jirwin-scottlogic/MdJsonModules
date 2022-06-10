@@ -6,10 +6,10 @@ tags:
   - Git
   - GitHub
 dependencies: [ setupGit ]
-tasks: [{"taskId": "Task5", "taskDescription": "Task 5 Description" }, 
-        {"taskId": "Task6", "taskDescription": "Task 6 Description" },
-        {"taskId": "Task7", "taskDescription": "Task 7 Description" }, 
-        {"taskId": "Task8", "taskDescription": "Task 8 Description" }]
+tasks: [{"taskId": "Task5", "taskDescription": "Task 5 Description", "taskLabel": "Task 5 Label" }, 
+        {"taskId": "Task6", "taskDescription": "Task 6 Description", "taskLabel": "Task 6 Label" },
+        {"taskId": "Task7", "taskDescription": "Task 7 Description", "taskLabel": "Task 7 Label" }, 
+        {"taskId": "Task8", "taskDescription": "Task 8 Description", "taskLabel": "Task 8 Label" }]
 ---
 
 # Git
