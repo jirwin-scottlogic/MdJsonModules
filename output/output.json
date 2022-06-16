@@ -17,7 +17,7 @@
   "data": [
     {
       "id": "gitModule__1-setupGit",
-      "contents": "<h1 id=\"setup\">Setup</h1>\n<h2 id=\"setup-git\">Setup Git</h2>\n<p><a href=\"https://github.com\">Link to the github repo</a></p>\n",
+      "contents": "<h1 id=\"task-1\">Task 1</h1>\n<p>Task 1 Description</p>\n<h1 id=\"task-2\">Task 2</h1>\n<p>Task 2 Description</p>\n<h1 id=\"task-3\">Task 3</h1>\n<p>Task 3 Description</p>\n<h1 id=\"task-4\">Task 4</h1>\n<p>Task 4 Description</p>\n",
       "moduleId": "setupGit",
       "title": "Setup Git",
       "moduleDescription": "Setup git description",
@@ -48,18 +48,40 @@
           "taskLabel": "Task 4 Label"
         }
       ],
-      "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
+      "task": 4,
+      "taskLabels": [
+        [
+          "Tags",
+          "metadata"
+        ],
+        [
+          "framework",
+          "testing",
+          "other"
+        ],
+        [
+          "Tags",
+          "metadata",
+          "framework",
+          "testing",
+          "other"
+        ],
+        [
+          "framework"
+        ]
+      ],
+      "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-06-10T09:51:29.030Z",
-        "lastModified": "2022-06-10T09:51:29.030Z",
-        "size": 600,
-        "formattedSize": "600 Bytes"
+        "createdAt": "2022-06-16T08:44:43.931Z",
+        "lastModified": "2022-06-16T08:44:43.931Z",
+        "size": 779,
+        "formattedSize": "779 Bytes"
       }
     },
     {
       "id": "gitModule__2-learningGit",
-      "contents": "<h1 id=\"git\">Git</h1>\n<h2 id=\"learning-git\">Learning Git</h2>\n<p><a href=\"https://github.com\">Link to the github repo</a></p>\n",
+      "contents": "<h1 id=\"task-5\">Task 5</h1>\n<p>Task 5 Description</p>\n<h1 id=\"task-6\">Task 6</h1>\n<p>Task 6 Description</p>\n<h1 id=\"task-7\">Task 7</h1>\n<p>Task 7 Description</p>\n<h1 id=\"task-8\">Task 8</h1>\n<p>Task 8 Description</p>\n",
       "moduleId": "learningGit",
       "title": "Introduce Git",
       "moduleDescription": "Learn git module description",
@@ -92,13 +114,35 @@
           "taskLabel": "Task 8 Label"
         }
       ],
-      "excerpt": "<p><a href=\"https://github.com\">Link to the github repo</a></p>",
+      "task": 4,
+      "taskLabels": [
+        [
+          "Tags",
+          "metadata"
+        ],
+        [
+          "framework",
+          "testing",
+          "other"
+        ],
+        [
+          "Tags",
+          "metadata",
+          "framework",
+          "testing",
+          "other"
+        ],
+        [
+          "framework"
+        ]
+      ],
+      "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-06-10T09:51:29.030Z",
-        "lastModified": "2022-06-10T09:51:29.030Z",
-        "size": 624,
-        "formattedSize": "624 Bytes"
+        "createdAt": "2022-06-16T08:44:43.931Z",
+        "lastModified": "2022-06-16T08:44:43.931Z",
+        "size": 802,
+        "formattedSize": "802 Bytes"
       }
     }
   ]
