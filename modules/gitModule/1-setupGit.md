@@ -10,10 +10,23 @@ tasks: [{"taskId": "Task1", "taskDescription": "Task 1 Description", "taskLabel"
         {"taskId": "Task2", "taskDescription": "Task 2 Description", "taskLabel": "Task 2 Label" },
         {"taskId": "Task3", "taskDescription": "Task 3 Description", "taskLabel": "Task 3 Label" }, 
         {"taskId": "Task4", "taskDescription": "Task 4 Description", "taskLabel": "Task 4 Label" }]
+task: 4
+taskLabels: [[Tags, metadata],  [framework, testing, other],  [Tags, metadata, framework, testing, other],  [framework]]
 ---
 
-# Setup 
+# Task 1
 
-## Setup Git
+Task 1 Description
 
-[Link to the github repo](https://github.com)
+# Task 2
+
+Task 2 Description
+
+# Task 3
+
+Task 3 Description
+
+# Task 4
+
+Task 4 Description
+
