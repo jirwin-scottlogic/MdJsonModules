@@ -48,35 +48,34 @@
           "taskLabel": "Task 4 Label"
         }
       ],
-      "task": 4,
       "taskLabels": [
         [
           "Tags",
-          "metadata"
+          "Metadata"
         ],
         [
-          "framework",
-          "testing",
-          "other"
+          "Framework",
+          "Testing",
+          "Other"
         ],
         [
           "Tags",
-          "metadata",
-          "framework",
-          "testing",
-          "other"
+          "Metadata",
+          "Framework",
+          "Testing",
+          "Other"
         ],
         [
-          "framework"
+          "Framework"
         ]
       ],
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-06-16T08:44:43.931Z",
-        "lastModified": "2022-06-16T08:44:43.931Z",
-        "size": 779,
-        "formattedSize": "779 Bytes"
+        "createdAt": "2022-06-20T15:24:08.326Z",
+        "lastModified": "2022-06-20T15:24:08.326Z",
+        "size": 771,
+        "formattedSize": "771 Bytes"
       }
     },
     {
@@ -118,29 +117,29 @@
       "taskLabels": [
         [
           "Tags",
-          "metadata"
+          "Metadata"
         ],
         [
-          "framework",
-          "testing",
-          "other"
+          "Framework",
+          "Testing",
+          "Other"
         ],
         [
           "Tags",
-          "metadata",
-          "framework",
-          "testing",
-          "other"
+          "Metadata",
+          "Framework",
+          "Testing",
+          "Other"
         ],
         [
-          "framework"
+          "Framework"
         ]
       ],
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-06-16T08:44:43.931Z",
-        "lastModified": "2022-06-16T08:44:43.931Z",
+        "createdAt": "2022-06-20T15:24:08.326Z",
+        "lastModified": "2022-06-20T15:24:08.326Z",
         "size": 802,
         "formattedSize": "802 Bytes"
       }
