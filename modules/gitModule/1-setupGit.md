@@ -10,8 +10,7 @@ tasks: [{"taskId": "Task1", "taskDescription": "Task 1 Description", "taskLabel"
         {"taskId": "Task2", "taskDescription": "Task 2 Description", "taskLabel": "Task 2 Label" },
         {"taskId": "Task3", "taskDescription": "Task 3 Description", "taskLabel": "Task 3 Label" }, 
         {"taskId": "Task4", "taskDescription": "Task 4 Description", "taskLabel": "Task 4 Label" }]
-task: 4
-taskLabels: [[Tags, metadata],  [framework, testing, other],  [Tags, metadata, framework, testing, other],  [framework]]
+taskLabels: [[Tags, Metadata],  [Framework, Testing, Other],  [Tags, Metadata, Framework, Testing, Other],  [Framework]]
 ---
 
 # Task 1
