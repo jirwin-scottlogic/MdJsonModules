@@ -17,7 +17,7 @@ taskLabels: [[Tags, Metadata],  [Framework, Testing, Other],  [Tags, Metadata, F
 
 Task 1 Description
 
-*Tags, Metadata*
+*Tags, Metadata, Git*
 
 ## Task 2
 
