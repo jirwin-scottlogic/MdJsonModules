@@ -17,22 +17,22 @@ taskLabels: [[Tags, Metadata],  [Framework, Testing, Other],  [Tags, Metadata, F
 
 Task 1 Description
 
-labels: Tags, Metadata
+*Tags, Metadata*
 
 ## Task 2
 
 Task 2 Description
 
-labels: Framework, Testing, Other
+*Framework, Testing, Other*
 
 ## Task 3
 
 Task 3 Description
 
-labels: Tags, Metadata, Framework, Testing, Other
+*Tags, Metadata, Framework, Testing, Other*
 
 ## Task 4
 
 Task 4 Description
 
-labels: Framework
+*Framework*
