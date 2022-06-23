@@ -17,7 +17,7 @@
   "data": [
     {
       "id": "gitModule__1-setupGit",
-      "contents": "<h2 id=\"task-1\">Task 1</h2>\n<p>Task 1 Description</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-2\">Task 2</h2>\n<p>Task 2 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-3\">Task 3</h2>\n<p>Task 3 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-4\">Task 4</h2>\n<p>Task 4 Description</p>\n<p><em>Framework</em></p>\n",
+      "contents": "<h2 id=\"task-1\">Task 1</h2>\n<p>Task 1 Description</p>\n<p><em>Tags, Metadata, Git</em></p>\n<h2 id=\"task-2\">Task 2</h2>\n<p>Task 2 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-3\">Task 3</h2>\n<p>Task 3 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-4\">Task 4</h2>\n<p>Task 4 Description</p>\n<p><em>Framework</em></p>\n",
       "moduleId": "setupGit",
       "title": "Setup Git",
       "moduleDescription": "Setup git description",
@@ -72,10 +72,10 @@
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-06-22T12:31:17.690Z",
-        "lastModified": "2022-06-22T12:31:17.690Z",
-        "size": 878,
-        "formattedSize": "878 Bytes"
+        "createdAt": "2022-06-22T13:23:35.998Z",
+        "lastModified": "2022-06-22T13:23:35.998Z",
+        "size": 883,
+        "formattedSize": "883 Bytes"
       }
     },
     {
@@ -133,8 +133,8 @@
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-06-22T12:31:17.690Z",
-        "lastModified": "2022-06-22T12:31:17.690Z",
+        "createdAt": "2022-06-22T13:23:35.998Z",
+        "lastModified": "2022-06-22T13:23:35.998Z",
         "size": 878,
         "formattedSize": "878 Bytes"
       }
