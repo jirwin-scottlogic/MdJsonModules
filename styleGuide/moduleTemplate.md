@@ -1,14 +1,12 @@
 ---
 id:
 title:
-tags:
-  -
-  -
+moduleDescription:
 dependencies: []
 ---
 
-# Title
+## Task Name
 
-## Task
+Task description
 
-[Link to the github repo](https://github.com)
+*labels, comma, seperated*

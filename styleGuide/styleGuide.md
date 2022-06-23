@@ -10,10 +10,9 @@ A unique identifier for each module
 
 The heading for the module that gives a brief overview of the task
 
-## Tags
+## moduleDescription
 
-A short list of buzz words that relate to what the task involves e.g language, backend/frontend
-
+A short description of the module.
 ## Dependencies
 
 A list of modules that are required to be completed before attempting this task
@@ -26,24 +25,14 @@ A list of modules that are required to be completed before attempting this task
 ---
 id: Module2
 title: Exploring Java and React
-tags:
-  - Java
-  - React
 dependencies:
   - Module1
 ---
 
-//Everything below is the body of the module
 
-# Heading For Module Body
+## Title of task
 
-Lorem ipsum dolor sit amet, _consectetur_ adipisicing elit, sed do eiusmod
-tempor incididunt ut **labore et dolore magna aliqua**. Ut enim ad minim veniam
+Lorem ipsum dolor sit amet, _consectetur_ adipisicing elit, sed do eiusmod consequat.
 
-## Another Heading For Task
-
-Lorem ipsum dolor sit amet, _consectetur_ adipisicing elit, sed do eiusmod
-consequat.
-
-[Link to repo](https://github.com)
+*labels, for, tasks, in, asterisk*
 ```

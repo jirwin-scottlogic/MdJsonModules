@@ -18,6 +18,10 @@ As this will be used in a separate Scott Logic repository that will be used for 
 
 The repository needs to allow GitHub workflows to have **write permissions** so that when the JSON has been generated it can be pushed into the repo.
 
+## Style guide
+
+In the style guide folder a template for what a module should look like along with a more detailed explanation of individual parts can be found.
+
 ## To run conversion tool locally
 
 This tool will only run in github actions if a change or new file is detected. If for whatever reason it doesnt run these commands can be run manually locally before push to update the `output.json`
