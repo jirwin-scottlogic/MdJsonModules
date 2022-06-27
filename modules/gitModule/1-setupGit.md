@@ -13,7 +13,7 @@ tasks: [{"taskId": "Task1", "taskDescription": "Task 1 Description", "taskLabel"
 taskLabels: [[Tags, Metadata],  [Framework, Testing, Other],  [Tags, Metadata, Framework, Testing, Other],  [Framework]]
 parentId: ""
 difficulty: Hard
-duraiton: Medium
+duration: Medium
 ---
 
 ## Task 1

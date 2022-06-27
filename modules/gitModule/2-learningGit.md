@@ -9,6 +9,9 @@ tasks: [{"taskId": "Task5", "taskDescription": "Task 5 Description", "taskLabel"
         {"taskId": "Task8", "taskDescription": "Task 8 Description", "taskLabel": "Task 8 Label" }]
 taskLabels: [[Tags, Metadata],  [Framework, Testing, Other],  [Tags, Metadata, Framework, Testing, Other],  [Framework]]
 parentId: "gitModule__1-setupGit"
+difficulty: Hard
+duration: Medium
+comments: 1
 ---
 
 ## Task 5
