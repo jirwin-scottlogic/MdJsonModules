@@ -69,13 +69,14 @@
           "Framework"
         ]
       ],
+      "parentId": "",
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-06-23T09:10:27.144Z",
-        "lastModified": "2022-06-23T09:10:27.144Z",
-        "size": 883,
-        "formattedSize": "883 Bytes"
+        "createdAt": "2022-06-27T13:59:04.098Z",
+        "lastModified": "2022-06-27T13:59:04.098Z",
+        "size": 896,
+        "formattedSize": "896 Bytes"
       }
     },
     {
@@ -130,13 +131,14 @@
           "Framework"
         ]
       ],
+      "parentId": "gitModule__1-setupGit",
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-06-23T09:10:27.144Z",
-        "lastModified": "2022-06-23T09:10:27.144Z",
-        "size": 878,
-        "formattedSize": "878 Bytes"
+        "createdAt": "2022-06-27T13:59:04.098Z",
+        "lastModified": "2022-06-27T13:59:04.098Z",
+        "size": 912,
+        "formattedSize": "912 Bytes"
       }
     }
   ]
