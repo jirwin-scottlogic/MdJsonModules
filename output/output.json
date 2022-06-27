@@ -71,12 +71,12 @@
       ],
       "parentId": "",
       "difficulty": "Hard",
-      "duraiton": "Medium",
+      "duration": "Medium",
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-06-27T14:15:25.675Z",
-        "lastModified": "2022-06-27T14:15:25.675Z",
+        "createdAt": "2022-06-27T14:30:08.852Z",
+        "lastModified": "2022-06-27T14:30:08.852Z",
         "size": 931,
         "formattedSize": "931 Bytes"
       }
@@ -134,13 +134,16 @@
         ]
       ],
       "parentId": "gitModule__1-setupGit",
+      "difficulty": "Hard",
+      "duration": "Medium",
+      "comments": 1,
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-06-27T14:15:25.675Z",
-        "lastModified": "2022-06-27T14:15:25.675Z",
-        "size": 912,
-        "formattedSize": "912 Bytes"
+        "createdAt": "2022-06-27T14:30:08.852Z",
+        "lastModified": "2022-06-27T14:30:08.852Z",
+        "size": 958,
+        "formattedSize": "958 Bytes"
       }
     }
   ]
