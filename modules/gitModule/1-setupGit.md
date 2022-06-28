@@ -1,10 +1,8 @@
 ---
 moduleId: setupGit
+id: setupGit
 title: Setup Git
 moduleDescription: Setup git description
-tags:
-  - Git
-  - GitHub
 dependencies: []
 tasks: [{"taskId": "Task1", "taskDescription": "Task 1 Description", "taskLabel": "Task 1 Label" }, 
         {"taskId": "Task2", "taskDescription": "Task 2 Description", "taskLabel": "Task 2 Label" },
@@ -14,6 +12,7 @@ taskLabels: [[Tags, Metadata],  [Framework, Testing, Other],  [Tags, Metadata, F
 parentId: ""
 difficulty: Hard
 duration: Medium
+comments: 0
 ---
 
 ## Task 1

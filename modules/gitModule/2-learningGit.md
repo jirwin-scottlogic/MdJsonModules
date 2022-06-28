@@ -1,5 +1,6 @@
 ---
 moduleId: learningGit
+id: learningGit
 title: Introduce Git
 moduleDescription: Learn git module description
 dependencies: [ setupGit ]
