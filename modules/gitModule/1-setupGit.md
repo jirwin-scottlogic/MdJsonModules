@@ -1,6 +1,5 @@
 ---
-moduleId: setupGit
-id: gitModule__1-setupGit
+id: setupGit
 title: Setup Git
 moduleDescription: Setup git description
 dependencies: []
