@@ -16,9 +16,8 @@
   },
   "data": [
     {
-      "id": "gitModule__1-setupGit",
+      "id": "setupGit",
       "contents": "<h2 id=\"task-1\">Task 1</h2>\n<p>Task 1 Description</p>\n<p><em>Tags, Metadata, Git</em></p>\n<h2 id=\"task-2\">Task 2</h2>\n<p>Task 2 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-3\">Task 3</h2>\n<p>Task 3 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-4\">Task 4</h2>\n<p>Task 4 Description</p>\n<p><em>Framework</em></p>\n",
-      "moduleId": "setupGit",
       "title": "Setup Git",
       "moduleDescription": "Setup git description",
       "dependencies": [],
@@ -72,16 +71,15 @@
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-06-28T13:49:38.406Z",
-        "lastModified": "2022-06-28T13:49:38.406Z",
-        "size": 944,
-        "formattedSize": "944 Bytes"
+        "createdAt": "2022-06-29T09:28:42.870Z",
+        "lastModified": "2022-06-29T09:28:42.870Z",
+        "size": 912,
+        "formattedSize": "912 Bytes"
       }
     },
     {
-      "id": "gitModule__2-learningGit",
+      "id": "learningGit",
       "contents": "<h2 id=\"task-5\">Task 5</h2>\n<p>Task 5 Description</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-6\">Task 6</h2>\n<p>Task 6 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-7\">Task 7</h2>\n<p>Task 7 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-8\">Task 8</h2>\n<p>Task 8 Description</p>\n<p><em>Framework</em></p>\n",
-      "moduleId": "learningGit",
       "title": "Introduce Git",
       "moduleDescription": "Learn git module description",
       "dependencies": [
@@ -130,17 +128,17 @@
           "Framework"
         ]
       ],
-      "parentId": "gitModule__1-setupGit",
+      "parentId": "setupGit",
       "difficulty": "Hard",
       "duration": "Medium",
       "comments": 1,
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-06-28T13:49:38.406Z",
-        "lastModified": "2022-06-28T13:49:38.406Z",
-        "size": 987,
-        "formattedSize": "987 Bytes"
+        "createdAt": "2022-06-29T09:28:42.870Z",
+        "lastModified": "2022-06-29T09:28:42.870Z",
+        "size": 939,
+        "formattedSize": "939 Bytes"
       }
     }
   ]
