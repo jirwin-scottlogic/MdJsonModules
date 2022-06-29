@@ -16,7 +16,7 @@
   },
   "data": [
     {
-      "id": "setupGit",
+      "id": "gitModule__1-setupGit",
       "contents": "<h2 id=\"task-1\">Task 1</h2>\n<p>Task 1 Description</p>\n<p><em>Tags, Metadata, Git</em></p>\n<h2 id=\"task-2\">Task 2</h2>\n<p>Task 2 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-3\">Task 3</h2>\n<p>Task 3 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-4\">Task 4</h2>\n<p>Task 4 Description</p>\n<p><em>Framework</em></p>\n",
       "moduleId": "setupGit",
       "title": "Setup Git",
@@ -72,14 +72,14 @@
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-06-28T13:45:36.315Z",
-        "lastModified": "2022-06-28T13:45:36.315Z",
-        "size": 931,
-        "formattedSize": "931 Bytes"
+        "createdAt": "2022-06-28T13:49:38.406Z",
+        "lastModified": "2022-06-28T13:49:38.406Z",
+        "size": 944,
+        "formattedSize": "944 Bytes"
       }
     },
     {
-      "id": "learningGit",
+      "id": "gitModule__2-learningGit",
       "contents": "<h2 id=\"task-5\">Task 5</h2>\n<p>Task 5 Description</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-6\">Task 6</h2>\n<p>Task 6 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-7\">Task 7</h2>\n<p>Task 7 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-8\">Task 8</h2>\n<p>Task 8 Description</p>\n<p><em>Framework</em></p>\n",
       "moduleId": "learningGit",
       "title": "Introduce Git",
@@ -137,10 +137,10 @@
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-06-28T13:45:36.315Z",
-        "lastModified": "2022-06-28T13:45:36.315Z",
-        "size": 974,
-        "formattedSize": "974 Bytes"
+        "createdAt": "2022-06-28T13:49:38.406Z",
+        "lastModified": "2022-06-28T13:49:38.406Z",
+        "size": 987,
+        "formattedSize": "987 Bytes"
       }
     }
   ]
