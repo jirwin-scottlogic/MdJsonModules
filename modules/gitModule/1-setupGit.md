@@ -2,7 +2,7 @@
 id: setupGit
 title: Setup Git
 moduleDescription: Setup git description
-dependencies: []
+dependencies: 
 parentId: ""
 difficulty: Hard
 duration: Medium

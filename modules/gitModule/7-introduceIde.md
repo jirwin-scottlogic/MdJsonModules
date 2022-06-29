@@ -2,7 +2,7 @@
 id: introduceIde
 title: Introduce IDE
 moduleDescription: Introduce IDE description
-dependencies: []
+dependencies: setupGit, learningGit 
 parentId: "learningGit"
 difficulty: Easy
 duration: Short

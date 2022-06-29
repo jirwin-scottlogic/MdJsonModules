@@ -2,7 +2,7 @@
 id: javaBasics
 title: Java Basics
 moduleDescription: Java Basics module description
-dependencies: []
+dependencies: setupGit, learningGit, learningGithub
 parentId: "learningGitHub"
 difficulty: Easy
 duration: Long

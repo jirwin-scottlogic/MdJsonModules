@@ -2,7 +2,7 @@
 id: javaScriptBasics
 title: JavaScript Basics
 moduleDescription: JavaScript Basics description
-dependencies: []
+dependencies: setupGit, learningGit, learningGithub
 parentId: "learningGitHub"
 difficulty: Medium
 duration: Medium

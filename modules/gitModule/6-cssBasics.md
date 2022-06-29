@@ -2,7 +2,7 @@
 id: cssBasics
 title: CSS Basics
 moduleDescription: CSS Basics description
-dependencies: []
+dependencies: setupGit, learningGit, learningGithub
 parentId: "learningGitHub"
 difficulty: Hard
 duration: Hard

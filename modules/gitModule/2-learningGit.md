@@ -1,8 +1,8 @@
 ---
 id: learningGit
-title: Introduce Git
+title: Learning Git
 moduleDescription: Learn git module description
-dependencies: [ setupGit ]
+dependencies: setupGit
 parentId: "setupGit"
 difficulty: Hard
 duration: Medium
