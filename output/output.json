@@ -21,6 +21,10 @@
       "title": "Setup Git",
       "moduleDescription": "Setup git description",
       "dependencies": [],
+      "parentId": "",
+      "difficulty": "Hard",
+      "duration": "Medium",
+      "comments": 0,
       "tasks": [
         {
           "taskId": "Task1",
@@ -64,15 +68,11 @@
           "Framework"
         ]
       ],
-      "parentId": "",
-      "difficulty": "Hard",
-      "duration": "Medium",
-      "comments": 0,
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-06-29T09:28:42.870Z",
-        "lastModified": "2022-06-29T09:28:42.870Z",
+        "createdAt": "2022-06-29T13:10:15.455Z",
+        "lastModified": "2022-06-29T13:10:15.455Z",
         "size": 912,
         "formattedSize": "912 Bytes"
       }
@@ -85,6 +85,10 @@
       "dependencies": [
         "setupGit"
       ],
+      "parentId": "setupGit",
+      "difficulty": "Hard",
+      "duration": "Medium",
+      "comments": 1,
       "tasks": [
         {
           "taskId": "Task5",
@@ -128,17 +132,261 @@
           "Framework"
         ]
       ],
-      "parentId": "setupGit",
-      "difficulty": "Hard",
-      "duration": "Medium",
-      "comments": 1,
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-06-29T09:28:42.870Z",
-        "lastModified": "2022-06-29T09:28:42.870Z",
+        "createdAt": "2022-06-29T13:10:15.455Z",
+        "lastModified": "2022-06-29T13:10:15.455Z",
         "size": 939,
         "formattedSize": "939 Bytes"
+      }
+    },
+    {
+      "id": "learningGitHub",
+      "contents": "<h2 id=\"task-9\">Task 9</h2>\n<p>Task 9 Description</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-10\">Task 10</h2>\n<p>Task 10 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-11\">Task 11</h2>\n<p>Task 11 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-12\">Task 12</h2>\n<p>Task 12 Description</p>\n<p><em>Framework</em></p>\n",
+      "title": "Learning GitHub",
+      "moduleDescription": "Learn GitHub description",
+      "dependencies": [],
+      "parentId": "learningGit",
+      "difficulty": "Medium",
+      "duration": "Medium",
+      "comments": 2,
+      "tasks": [
+        {
+          "taskId": "Task9",
+          "taskDescription": "Task 9 Description",
+          "taskLabel": "Task 9 Label"
+        },
+        {
+          "taskId": "Task10",
+          "taskDescription": "Task 10 Description",
+          "taskLabel": "Task 10 Label"
+        },
+        {
+          "taskId": "Task11",
+          "taskDescription": "Task 11 Description",
+          "taskLabel": "Task 11 Label"
+        },
+        {
+          "taskId": "Task12",
+          "taskDescription": "Task 12 Description",
+          "taskLabel": "Task 12 Label"
+        }
+      ],
+      "taskLabels": [
+        [
+          "Tags",
+          "Metadata"
+        ],
+        [
+          "Framework",
+          "Testing",
+          "Other"
+        ],
+        [
+          "Tags",
+          "Metadata",
+          "Framework",
+          "Testing",
+          "Other"
+        ],
+        [
+          "Framework"
+        ]
+      ],
+      "excerpt": "<p>Task 9 Description</p>",
+      "meta": {
+        "relativePath": "gitModule/3-learningGitHub.html",
+        "createdAt": "2022-06-29T13:10:15.455Z",
+        "lastModified": "2022-06-29T13:10:15.455Z",
+        "size": 950,
+        "formattedSize": "950 Bytes"
+      }
+    },
+    {
+      "id": "javaBasics",
+      "contents": "<h2 id=\"task-13\">Task 13</h2>\n<p>Task 13 Description</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-14\">Task 14</h2>\n<p>Task 14 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-15\">Task 15</h2>\n<p>Task 15 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-16\">Task 16</h2>\n<p>Task 16 Description</p>\n<p><em>Framework</em></p>\n",
+      "title": "Java Basics",
+      "moduleDescription": "Java Basics module description",
+      "dependencies": [],
+      "parentId": "learningGitHub",
+      "difficulty": "Easy",
+      "duration": "Long",
+      "comments": 17,
+      "tasks": [
+        {
+          "taskId": "Task13",
+          "taskDescription": "Task 13 Description",
+          "taskLabel": "Task 13 Label"
+        },
+        {
+          "taskId": "Task14",
+          "taskDescription": "Task 14 Description",
+          "taskLabel": "Task 14 Label"
+        },
+        {
+          "taskId": "Task15",
+          "taskDescription": "Task 15 Description",
+          "taskLabel": "Task 15 Label"
+        },
+        {
+          "taskId": "Task16",
+          "taskDescription": "Task 16 Description",
+          "taskLabel": "Task 16 Label"
+        }
+      ],
+      "taskLabels": [
+        [
+          "Tags",
+          "Metadata"
+        ],
+        [
+          "Framework",
+          "Testing",
+          "Other"
+        ],
+        [
+          "Tags",
+          "Metadata",
+          "Framework",
+          "Testing",
+          "Other"
+        ],
+        [
+          "Framework"
+        ]
+      ],
+      "excerpt": "<p>Task 13 Description</p>",
+      "meta": {
+        "relativePath": "gitModule/4-javaBasics.html",
+        "createdAt": "2022-06-29T13:10:15.455Z",
+        "lastModified": "2022-06-29T13:10:15.455Z",
+        "size": 953,
+        "formattedSize": "953 Bytes"
+      }
+    },
+    {
+      "id": "javaScriptBasics",
+      "contents": "<h2 id=\"task-17\">Task 17</h2>\n<p>Task 17 Description</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-18\">Task 18</h2>\n<p>Task 18 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-19\">Task 19</h2>\n<p>Task 19 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-20\">Task 20</h2>\n<p>Task 20 Description</p>\n<p><em>Framework</em></p>\n",
+      "title": "JavaScript Basics",
+      "moduleDescription": "JavaScript Basics description",
+      "dependencies": [],
+      "parentId": "learningGitHub",
+      "difficulty": "Medium",
+      "duration": "Medium",
+      "comments": 1,
+      "tasks": [
+        {
+          "taskId": "Task17",
+          "taskDescription": "Task 17 Description",
+          "taskLabel": "Task 17 Label"
+        },
+        {
+          "taskId": "Task18",
+          "taskDescription": "Task 18 Description",
+          "taskLabel": "Task 18 Label"
+        },
+        {
+          "taskId": "Task19",
+          "taskDescription": "Task 19 Description",
+          "taskLabel": "Task 19 Label"
+        },
+        {
+          "taskId": "Task20",
+          "taskDescription": "Task 20 Description",
+          "taskLabel": "Task 20 Label"
+        }
+      ],
+      "taskLabels": [
+        [
+          "Tags",
+          "Metadata"
+        ],
+        [
+          "Framework",
+          "Testing",
+          "Other"
+        ],
+        [
+          "Tags",
+          "Metadata",
+          "Framework",
+          "Testing",
+          "Other"
+        ],
+        [
+          "Framework"
+        ]
+      ],
+      "excerpt": "<p>Task 17 Description</p>",
+      "meta": {
+        "relativePath": "gitModule/5-javaScriptBasics.html",
+        "createdAt": "2022-06-29T13:10:15.455Z",
+        "lastModified": "2022-06-29T13:10:15.455Z",
+        "size": 967,
+        "formattedSize": "967 Bytes"
+      }
+    },
+    {
+      "id": "cssBasics",
+      "contents": "<h2 id=\"task-21\">Task 21</h2>\n<p>Task 21 Description</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-22\">Task 22</h2>\n<p>Task 22 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-23\">Task 23</h2>\n<p>Task 23 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-24\">Task 24</h2>\n<p>Task 24 Description</p>\n<p><em>Framework</em></p>\n",
+      "title": "CSS Basics",
+      "moduleDescription": "CSS Basics description",
+      "dependencies": [],
+      "parentId": "learningGitHub",
+      "difficulty": "Hard",
+      "duration": "Hard",
+      "comments": 1,
+      "tasks": [
+        {
+          "taskId": "Task21",
+          "taskDescription": "Task 21 Description",
+          "taskLabel": "Task 21 Label"
+        },
+        {
+          "taskId": "Task22",
+          "taskDescription": "Task 22 Description",
+          "taskLabel": "Task 22 Label"
+        },
+        {
+          "taskId": "Task23",
+          "taskDescription": "Task 23 Description",
+          "taskLabel": "Task 23 Label"
+        },
+        {
+          "taskId": "Task24",
+          "taskDescription": "Task 24 Description",
+          "taskLabel": "Task 24 Label"
+        }
+      ],
+      "taskLabels": [
+        [
+          "Tags",
+          "Metadata"
+        ],
+        [
+          "Framework",
+          "Testing",
+          "Other"
+        ],
+        [
+          "Tags",
+          "Metadata",
+          "Framework",
+          "Testing",
+          "Other"
+        ],
+        [
+          "Framework"
+        ]
+      ],
+      "excerpt": "<p>Task 21 Description</p>",
+      "meta": {
+        "relativePath": "gitModule/6-cssBasics.html",
+        "createdAt": "2022-06-29T13:10:15.455Z",
+        "lastModified": "2022-06-29T13:10:15.455Z",
+        "size": 942,
+        "formattedSize": "942 Bytes"
       }
     }
   ]
