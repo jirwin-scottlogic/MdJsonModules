@@ -70,11 +70,11 @@
       ],
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
-        "relativePath": "gitModule\\1-setupGit.html",
-        "createdAt": "2022-06-29T15:06:53.405Z",
-        "lastModified": "2022-06-29T15:06:42.627Z",
-        "size": 949,
-        "formattedSize": "949 Bytes"
+        "relativePath": "gitModule/1-setupGit.html",
+        "createdAt": "2022-06-29T15:32:34.088Z",
+        "lastModified": "2022-06-29T15:32:34.088Z",
+        "size": 910,
+        "formattedSize": "910 Bytes"
       }
     },
     {
@@ -132,11 +132,11 @@
       ],
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
-        "relativePath": "gitModule\\2-learningGit.html",
-        "createdAt": "2022-06-29T15:06:07.495Z",
-        "lastModified": "2022-06-29T15:06:07.495Z",
-        "size": 973,
-        "formattedSize": "973 Bytes"
+        "relativePath": "gitModule/2-learningGit.html",
+        "createdAt": "2022-06-29T15:32:34.088Z",
+        "lastModified": "2022-06-29T15:32:34.088Z",
+        "size": 934,
+        "formattedSize": "934 Bytes"
       }
     },
     {
@@ -194,11 +194,11 @@
       ],
       "excerpt": "<p>Task 9 Description</p>",
       "meta": {
-        "relativePath": "gitModule\\3-learningGitHub.html",
-        "createdAt": "2022-06-29T15:06:15.785Z",
-        "lastModified": "2022-06-29T15:06:15.785Z",
-        "size": 1008,
-        "formattedSize": "1008 Bytes"
+        "relativePath": "gitModule/3-learningGitHub.html",
+        "createdAt": "2022-06-29T15:32:34.088Z",
+        "lastModified": "2022-06-29T15:32:34.088Z",
+        "size": 969,
+        "formattedSize": "969 Bytes"
       }
     },
     {
@@ -256,11 +256,11 @@
       ],
       "excerpt": "<p>Task 13 Description</p>",
       "meta": {
-        "relativePath": "gitModule\\4-javaBasics.html",
-        "createdAt": "2022-06-29T15:06:22.823Z",
-        "lastModified": "2022-06-29T15:06:22.823Z",
-        "size": 1027,
-        "formattedSize": "1.0 KB"
+        "relativePath": "gitModule/4-javaBasics.html",
+        "createdAt": "2022-06-29T15:32:34.088Z",
+        "lastModified": "2022-06-29T15:32:34.088Z",
+        "size": 988,
+        "formattedSize": "988 Bytes"
       }
     },
     {
@@ -318,11 +318,11 @@
       ],
       "excerpt": "<p>Task 17 Description</p>",
       "meta": {
-        "relativePath": "gitModule\\5-javaScriptBasics.html",
-        "createdAt": "2022-06-29T15:06:26.351Z",
-        "lastModified": "2022-06-29T15:06:26.351Z",
-        "size": 1041,
-        "formattedSize": "1.0 KB"
+        "relativePath": "gitModule/5-javaScriptBasics.html",
+        "createdAt": "2022-06-29T15:32:34.088Z",
+        "lastModified": "2022-06-29T15:32:34.088Z",
+        "size": 1002,
+        "formattedSize": "1002 Bytes"
       }
     },
     {
@@ -380,11 +380,11 @@
       ],
       "excerpt": "<p>Task 21 Description</p>",
       "meta": {
-        "relativePath": "gitModule\\6-cssBasics.html",
-        "createdAt": "2022-06-29T15:06:29.434Z",
-        "lastModified": "2022-06-29T15:06:29.434Z",
-        "size": 1016,
-        "formattedSize": "1016 Bytes"
+        "relativePath": "gitModule/6-cssBasics.html",
+        "createdAt": "2022-06-29T15:32:34.088Z",
+        "lastModified": "2022-06-29T15:32:34.088Z",
+        "size": 977,
+        "formattedSize": "977 Bytes"
       }
     },
     {
@@ -442,11 +442,11 @@
       ],
       "excerpt": "<p>Task 25 Description</p>",
       "meta": {
-        "relativePath": "gitModule\\7-introduceIde.html",
-        "createdAt": "2022-06-29T15:06:30.584Z",
-        "lastModified": "2022-06-29T15:04:22.726Z",
-        "size": 1008,
-        "formattedSize": "1008 Bytes"
+        "relativePath": "gitModule/7-introduceIde.html",
+        "createdAt": "2022-06-29T15:32:34.088Z",
+        "lastModified": "2022-06-29T15:32:34.088Z",
+        "size": 969,
+        "formattedSize": "969 Bytes"
       }
     }
   ]
