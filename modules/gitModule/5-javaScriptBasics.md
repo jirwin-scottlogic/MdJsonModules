@@ -1,5 +1,6 @@
 ---
 id: javaScriptBasics
+moduleId: javaScriptBasics
 title: JavaScript Basics
 moduleDescription: JavaScript Basics description
 dependencies: setupGit, learningGit, learningGithub

@@ -1,5 +1,6 @@
 ---
 id: introduceIde
+moduleId: introduceIde
 title: Introduce IDE
 moduleDescription: Introduce IDE description
 dependencies: setupGit, learningGit 
