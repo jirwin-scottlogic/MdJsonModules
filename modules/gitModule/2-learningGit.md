@@ -8,11 +8,6 @@ parentId: "setupGit"
 difficulty: Hard
 duration: Medium
 comments: 1
-tasks: [{"taskId": "Task5", "taskDescription": "Task 5 Description", "taskLabel": "Task 5 Label" }, 
-        {"taskId": "Task6", "taskDescription": "Task 6 Description", "taskLabel": "Task 6 Label" },
-        {"taskId": "Task7", "taskDescription": "Task 7 Description", "taskLabel": "Task 7 Label" }, 
-        {"taskId": "Task8", "taskDescription": "Task 8 Description", "taskLabel": "Task 8 Label" }]
-taskLabels: [[Tags, Metadata],  [Framework, Testing, Other],  [Tags, Metadata, Framework, Testing, Other],  [Framework]]
 ---
 
 ## Task 5

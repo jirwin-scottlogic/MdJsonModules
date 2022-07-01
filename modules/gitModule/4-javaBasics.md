@@ -8,11 +8,6 @@ parentId: "learningGitHub"
 difficulty: Easy
 duration: Long
 comments: 17
-tasks: [{"taskId": "Task13", "taskDescription": "Task 13 Description", "taskLabel": "Task 13 Label" }, 
-        {"taskId": "Task14", "taskDescription": "Task 14 Description", "taskLabel": "Task 14 Label" },
-        {"taskId": "Task15", "taskDescription": "Task 15 Description", "taskLabel": "Task 15 Label" }, 
-        {"taskId": "Task16", "taskDescription": "Task 16 Description", "taskLabel": "Task 16 Label" }]
-taskLabels: [[Tags, Metadata],  [Framework, Testing, Other],  [Tags, Metadata, Framework, Testing, Other],  [Framework]]
 ---
 
 ## Task 13
