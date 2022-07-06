@@ -26,56 +26,13 @@
       "difficulty": "Hard",
       "duration": "Medium",
       "comments": 0,
-      "tasks": [
-        {
-          "taskId": "Task1",
-          "taskDescription": "Task 1 Description",
-          "taskLabel": "Task 1 Label"
-        },
-        {
-          "taskId": "Task2",
-          "taskDescription": "Task 2 Description",
-          "taskLabel": "Task 2 Label"
-        },
-        {
-          "taskId": "Task3",
-          "taskDescription": "Task 3 Description",
-          "taskLabel": "Task 3 Label"
-        },
-        {
-          "taskId": "Task4",
-          "taskDescription": "Task 4 Description",
-          "taskLabel": "Task 4 Label"
-        }
-      ],
-      "taskLabels": [
-        [
-          "Tags",
-          "Metadata"
-        ],
-        [
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Tags",
-          "Metadata",
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Framework"
-        ]
-      ],
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-06-30T08:53:25.177Z",
-        "lastModified": "2022-06-30T08:53:25.177Z",
-        "size": 929,
-        "formattedSize": "929 Bytes"
+        "createdAt": "2022-07-01T15:37:15.918Z",
+        "lastModified": "2022-07-01T15:37:15.918Z",
+        "size": 406,
+        "formattedSize": "406 Bytes"
       }
     },
     {
@@ -89,56 +46,13 @@
       "difficulty": "Hard",
       "duration": "Medium",
       "comments": 1,
-      "tasks": [
-        {
-          "taskId": "Task5",
-          "taskDescription": "Task 5 Description",
-          "taskLabel": "Task 5 Label"
-        },
-        {
-          "taskId": "Task6",
-          "taskDescription": "Task 6 Description",
-          "taskLabel": "Task 6 Label"
-        },
-        {
-          "taskId": "Task7",
-          "taskDescription": "Task 7 Description",
-          "taskLabel": "Task 7 Label"
-        },
-        {
-          "taskId": "Task8",
-          "taskDescription": "Task 8 Description",
-          "taskLabel": "Task 8 Label"
-        }
-      ],
-      "taskLabels": [
-        [
-          "Tags",
-          "Metadata"
-        ],
-        [
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Tags",
-          "Metadata",
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Framework"
-        ]
-      ],
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-06-30T08:53:25.177Z",
-        "lastModified": "2022-06-30T08:53:25.177Z",
-        "size": 956,
-        "formattedSize": "956 Bytes"
+        "createdAt": "2022-07-01T15:37:15.918Z",
+        "lastModified": "2022-07-01T15:37:15.918Z",
+        "size": 433,
+        "formattedSize": "433 Bytes"
       }
     },
     {
@@ -152,56 +66,13 @@
       "difficulty": "Medium",
       "duration": "Medium",
       "comments": 2,
-      "tasks": [
-        {
-          "taskId": "Task9",
-          "taskDescription": "Task 9 Description",
-          "taskLabel": "Task 9 Label"
-        },
-        {
-          "taskId": "Task10",
-          "taskDescription": "Task 10 Description",
-          "taskLabel": "Task 10 Label"
-        },
-        {
-          "taskId": "Task11",
-          "taskDescription": "Task 11 Description",
-          "taskLabel": "Task 11 Label"
-        },
-        {
-          "taskId": "Task12",
-          "taskDescription": "Task 12 Description",
-          "taskLabel": "Task 12 Label"
-        }
-      ],
-      "taskLabels": [
-        [
-          "Tags",
-          "Metadata"
-        ],
-        [
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Tags",
-          "Metadata",
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Framework"
-        ]
-      ],
       "excerpt": "<p>Task 9 Description</p>",
       "meta": {
         "relativePath": "gitModule/3-learningGitHub.html",
-        "createdAt": "2022-06-30T08:53:25.177Z",
-        "lastModified": "2022-06-30T08:53:25.177Z",
-        "size": 994,
-        "formattedSize": "994 Bytes"
+        "createdAt": "2022-07-01T15:37:15.918Z",
+        "lastModified": "2022-07-01T15:37:15.918Z",
+        "size": 462,
+        "formattedSize": "462 Bytes"
       }
     },
     {
@@ -215,56 +86,13 @@
       "difficulty": "Easy",
       "duration": "Long",
       "comments": 17,
-      "tasks": [
-        {
-          "taskId": "Task13",
-          "taskDescription": "Task 13 Description",
-          "taskLabel": "Task 13 Label"
-        },
-        {
-          "taskId": "Task14",
-          "taskDescription": "Task 14 Description",
-          "taskLabel": "Task 14 Label"
-        },
-        {
-          "taskId": "Task15",
-          "taskDescription": "Task 15 Description",
-          "taskLabel": "Task 15 Label"
-        },
-        {
-          "taskId": "Task16",
-          "taskDescription": "Task 16 Description",
-          "taskLabel": "Task 16 Label"
-        }
-      ],
-      "taskLabels": [
-        [
-          "Tags",
-          "Metadata"
-        ],
-        [
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Tags",
-          "Metadata",
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Framework"
-        ]
-      ],
       "excerpt": "<p>Task 13 Description</p>",
       "meta": {
         "relativePath": "gitModule/4-javaBasics.html",
-        "createdAt": "2022-06-30T08:53:25.177Z",
-        "lastModified": "2022-06-30T08:53:25.177Z",
-        "size": 1009,
-        "formattedSize": "1009 Bytes"
+        "createdAt": "2022-07-01T15:37:15.918Z",
+        "lastModified": "2022-07-01T15:37:15.918Z",
+        "size": 474,
+        "formattedSize": "474 Bytes"
       }
     },
     {
@@ -278,56 +106,13 @@
       "difficulty": "Medium",
       "duration": "Medium",
       "comments": 1,
-      "tasks": [
-        {
-          "taskId": "Task17",
-          "taskDescription": "Task 17 Description",
-          "taskLabel": "Task 17 Label"
-        },
-        {
-          "taskId": "Task18",
-          "taskDescription": "Task 18 Description",
-          "taskLabel": "Task 18 Label"
-        },
-        {
-          "taskId": "Task19",
-          "taskDescription": "Task 19 Description",
-          "taskLabel": "Task 19 Label"
-        },
-        {
-          "taskId": "Task20",
-          "taskDescription": "Task 20 Description",
-          "taskLabel": "Task 20 Label"
-        }
-      ],
-      "taskLabels": [
-        [
-          "Tags",
-          "Metadata"
-        ],
-        [
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Tags",
-          "Metadata",
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Framework"
-        ]
-      ],
       "excerpt": "<p>Task 17 Description</p>",
       "meta": {
         "relativePath": "gitModule/5-javaScriptBasics.html",
-        "createdAt": "2022-06-30T08:53:25.177Z",
-        "lastModified": "2022-06-30T08:53:25.177Z",
-        "size": 1029,
-        "formattedSize": "1.0 KB"
+        "createdAt": "2022-07-01T15:37:15.918Z",
+        "lastModified": "2022-07-01T15:37:15.918Z",
+        "size": 494,
+        "formattedSize": "494 Bytes"
       }
     },
     {
@@ -341,56 +126,13 @@
       "difficulty": "Hard",
       "duration": "Hard",
       "comments": 1,
-      "tasks": [
-        {
-          "taskId": "Task21",
-          "taskDescription": "Task 21 Description",
-          "taskLabel": "Task 21 Label"
-        },
-        {
-          "taskId": "Task22",
-          "taskDescription": "Task 22 Description",
-          "taskLabel": "Task 22 Label"
-        },
-        {
-          "taskId": "Task23",
-          "taskDescription": "Task 23 Description",
-          "taskLabel": "Task 23 Label"
-        },
-        {
-          "taskId": "Task24",
-          "taskDescription": "Task 24 Description",
-          "taskLabel": "Task 24 Label"
-        }
-      ],
-      "taskLabels": [
-        [
-          "Tags",
-          "Metadata"
-        ],
-        [
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Tags",
-          "Metadata",
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Framework"
-        ]
-      ],
       "excerpt": "<p>Task 21 Description</p>",
       "meta": {
         "relativePath": "gitModule/6-cssBasics.html",
-        "createdAt": "2022-06-30T08:53:25.177Z",
-        "lastModified": "2022-06-30T08:53:25.177Z",
-        "size": 997,
-        "formattedSize": "997 Bytes"
+        "createdAt": "2022-07-01T15:37:15.918Z",
+        "lastModified": "2022-07-01T15:37:15.918Z",
+        "size": 463,
+        "formattedSize": "463 Bytes"
       }
     },
     {
@@ -404,56 +146,13 @@
       "difficulty": "Easy",
       "duration": "Short",
       "comments": 1,
-      "tasks": [
-        {
-          "taskId": "Task25",
-          "taskDescription": "Task 25 Description",
-          "taskLabel": "Task 25 Label"
-        },
-        {
-          "taskId": "Task26",
-          "taskDescription": "Task 26 Description",
-          "taskLabel": "Task 26 Label"
-        },
-        {
-          "taskId": "Task27",
-          "taskDescription": "Task 27 Description",
-          "taskLabel": "Task 27 Label"
-        },
-        {
-          "taskId": "Task28",
-          "taskDescription": "Task 28 Description",
-          "taskLabel": "Task 28 Label"
-        }
-      ],
-      "taskLabels": [
-        [
-          "Tags",
-          "Metadata"
-        ],
-        [
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Tags",
-          "Metadata",
-          "Framework",
-          "Testing",
-          "Other"
-        ],
-        [
-          "Framework"
-        ]
-      ],
       "excerpt": "<p>Task 25 Description</p>",
       "meta": {
         "relativePath": "gitModule/7-introduceIde.html",
-        "createdAt": "2022-06-30T08:53:25.177Z",
-        "lastModified": "2022-06-30T08:53:25.177Z",
-        "size": 992,
-        "formattedSize": "992 Bytes"
+        "createdAt": "2022-07-01T15:37:15.918Z",
+        "lastModified": "2022-07-01T15:37:15.918Z",
+        "size": 457,
+        "formattedSize": "457 Bytes"
       }
     }
   ]
