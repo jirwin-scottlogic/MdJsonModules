@@ -3,7 +3,7 @@ id: learningGitHub
 moduleId: learningGitHub
 title: Learning GitHub
 moduleDescription: Learn GitHub description
-dependencies: setupGit, learningGit
+dependencies: "setupGit", "learningGit"
 parentId: "learningGit"
 difficulty: Medium
 duration: Medium
