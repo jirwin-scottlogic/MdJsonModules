@@ -29,8 +29,8 @@
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-07-06T10:02:10.662Z",
-        "lastModified": "2022-07-06T10:02:10.662Z",
+        "createdAt": "2022-07-08T09:11:05.611Z",
+        "lastModified": "2022-07-08T09:11:05.611Z",
         "size": 408,
         "formattedSize": "408 Bytes"
       }
@@ -42,8 +42,7 @@
       "title": "Learning Git",
       "moduleDescription": "Learn git module description",
       "dependencies": [
-        "setupGit",
-        "test"
+        "setupGit"
       ],
       "parentId": "setupGit",
       "difficulty": "Hard",
@@ -52,10 +51,10 @@
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-07-06T10:02:10.662Z",
-        "lastModified": "2022-07-06T10:02:10.662Z",
-        "size": 441,
-        "formattedSize": "441 Bytes"
+        "createdAt": "2022-07-08T09:11:05.611Z",
+        "lastModified": "2022-07-08T09:11:05.611Z",
+        "size": 435,
+        "formattedSize": "435 Bytes"
       }
     },
     {
@@ -75,8 +74,8 @@
       "excerpt": "<p>Task 9 Description</p>",
       "meta": {
         "relativePath": "gitModule/3-learningGitHub.html",
-        "createdAt": "2022-07-06T10:02:10.662Z",
-        "lastModified": "2022-07-06T10:02:10.662Z",
+        "createdAt": "2022-07-08T09:11:05.611Z",
+        "lastModified": "2022-07-08T09:11:05.611Z",
         "size": 464,
         "formattedSize": "464 Bytes"
       }
@@ -99,8 +98,8 @@
       "excerpt": "<p>Task 13 Description</p>",
       "meta": {
         "relativePath": "gitModule/4-javaBasics.html",
-        "createdAt": "2022-07-06T10:02:10.662Z",
-        "lastModified": "2022-07-06T10:02:10.662Z",
+        "createdAt": "2022-07-08T09:11:05.611Z",
+        "lastModified": "2022-07-08T09:11:05.611Z",
         "size": 476,
         "formattedSize": "476 Bytes"
       }
@@ -123,8 +122,8 @@
       "excerpt": "<p>Task 17 Description</p>",
       "meta": {
         "relativePath": "gitModule/5-javaScriptBasics.html",
-        "createdAt": "2022-07-06T10:02:10.662Z",
-        "lastModified": "2022-07-06T10:02:10.662Z",
+        "createdAt": "2022-07-08T09:11:05.611Z",
+        "lastModified": "2022-07-08T09:11:05.611Z",
         "size": 496,
         "formattedSize": "496 Bytes"
       }
@@ -147,8 +146,8 @@
       "excerpt": "<p>Task 21 Description</p>",
       "meta": {
         "relativePath": "gitModule/6-cssBasics.html",
-        "createdAt": "2022-07-06T10:02:10.662Z",
-        "lastModified": "2022-07-06T10:02:10.662Z",
+        "createdAt": "2022-07-08T09:11:05.611Z",
+        "lastModified": "2022-07-08T09:11:05.611Z",
         "size": 465,
         "formattedSize": "465 Bytes"
       }
@@ -170,8 +169,8 @@
       "excerpt": "<p>Task 25 Description</p>",
       "meta": {
         "relativePath": "gitModule/7-introduceIde.html",
-        "createdAt": "2022-07-06T10:02:10.662Z",
-        "lastModified": "2022-07-06T10:02:10.662Z",
+        "createdAt": "2022-07-08T09:11:05.611Z",
+        "lastModified": "2022-07-08T09:11:05.611Z",
         "size": 459,
         "formattedSize": "459 Bytes"
       }
