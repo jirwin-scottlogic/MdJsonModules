@@ -1,6 +1,6 @@
 ---
-id: learningGitHub
-moduleId: learningGitHub
+id: learningGithub
+moduleId: learningGithub
 title: Learning GitHub
 moduleDescription: Learn GitHub description
 dependencies: [setupGit, learningGit]
