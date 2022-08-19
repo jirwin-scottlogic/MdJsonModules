@@ -29,8 +29,8 @@
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-08-19T10:28:45.657Z",
-        "lastModified": "2022-08-19T10:28:45.657Z",
+        "createdAt": "2022-08-19T10:30:08.182Z",
+        "lastModified": "2022-08-19T10:30:08.182Z",
         "size": 408,
         "formattedSize": "408 Bytes"
       }
@@ -51,8 +51,8 @@
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-08-19T10:28:45.657Z",
-        "lastModified": "2022-08-19T10:28:45.657Z",
+        "createdAt": "2022-08-19T10:30:08.182Z",
+        "lastModified": "2022-08-19T10:30:08.182Z",
         "size": 435,
         "formattedSize": "435 Bytes"
       }
@@ -74,8 +74,8 @@
       "excerpt": "<p>Task 9 Description</p>",
       "meta": {
         "relativePath": "gitModule/3-learningGitHub.html",
-        "createdAt": "2022-08-19T10:28:45.657Z",
-        "lastModified": "2022-08-19T10:28:45.657Z",
+        "createdAt": "2022-08-19T10:30:08.182Z",
+        "lastModified": "2022-08-19T10:30:08.182Z",
         "size": 464,
         "formattedSize": "464 Bytes"
       }
@@ -98,15 +98,15 @@
       "excerpt": "<p>Task 13 Description &#x6F22;&#x5B57;</p>",
       "meta": {
         "relativePath": "gitModule/4-javaBasics.html",
-        "createdAt": "2022-08-19T10:28:45.657Z",
-        "lastModified": "2022-08-19T10:28:45.657Z",
+        "createdAt": "2022-08-19T10:30:08.182Z",
+        "lastModified": "2022-08-19T10:30:08.182Z",
         "size": 375,
         "formattedSize": "375 Bytes"
       }
     },
     {
       "id": "javaScriptBasics",
-      "contents": "<h2 id=\"task-17\">Task 17</h2>\n<p>Task 17 Description</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-18\">Task 18</h2>\n<p>Task 18 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-19\">Task 19</h2>\n<p>Task 19 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-20\">Task 20</h2>\n<p>Task 20 Description</p>\n<p><em>Framework</em></p>\n",
+      "contents": "<p>//## Task 17</p>\n<p>//Task 17 Description</p>\n<p>//<em>Tags, Metadata</em></p>\n<p>//## Task 18</p>\n<p>//Task 18 Description</p>\n<p>//<em>Framework, Testing, Other</em></p>\n<p>//## Task 19</p>\n<p>//Task 19 Description</p>\n<p>//<em>Tags, Metadata, Framework, Testing, Other</em></p>\n<p>//## Task 20</p>\n<p>//Task 20 Description</p>\n<p>//<em>Framework</em></p>\n",
       "moduleId": "javaScriptBasics",
       "title": "JavaScript Basics",
       "moduleDescription": "JavaScript Basics description",
@@ -119,13 +119,13 @@
       "difficulty": "Medium",
       "duration": "Medium",
       "comments": 1,
-      "excerpt": "<p>Task 17 Description</p>",
+      "excerpt": "<p>//## Task 17</p>",
       "meta": {
         "relativePath": "gitModule/5-javaScriptBasics.html",
-        "createdAt": "2022-08-19T10:28:45.657Z",
-        "lastModified": "2022-08-19T10:28:45.657Z",
-        "size": 496,
-        "formattedSize": "496 Bytes"
+        "createdAt": "2022-08-19T10:30:08.182Z",
+        "lastModified": "2022-08-19T10:30:08.182Z",
+        "size": 520,
+        "formattedSize": "520 Bytes"
       }
     },
     {
@@ -146,8 +146,8 @@
       "excerpt": "<p>Task 21 Description</p>",
       "meta": {
         "relativePath": "gitModule/6-cssBasics.html",
-        "createdAt": "2022-08-19T10:28:45.657Z",
-        "lastModified": "2022-08-19T10:28:45.657Z",
+        "createdAt": "2022-08-19T10:30:08.182Z",
+        "lastModified": "2022-08-19T10:30:08.182Z",
         "size": 465,
         "formattedSize": "465 Bytes"
       }
@@ -169,8 +169,8 @@
       "excerpt": "<p>Task 25 Description</p>",
       "meta": {
         "relativePath": "gitModule/7-introduceIde.html",
-        "createdAt": "2022-08-19T10:28:45.657Z",
-        "lastModified": "2022-08-19T10:28:45.657Z",
+        "createdAt": "2022-08-19T10:30:08.182Z",
+        "lastModified": "2022-08-19T10:30:08.182Z",
         "size": 459,
         "formattedSize": "459 Bytes"
       }
