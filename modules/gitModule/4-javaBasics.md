@@ -18,9 +18,12 @@ Task 13 Description 漢字
 
 ## Task 14
 
-#
+Task 14 Description 漢字
+
+*Tags, Metadata*
 
 ## Task 15
+
 
 
 ## Task 16
