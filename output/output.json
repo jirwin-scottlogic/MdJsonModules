@@ -29,8 +29,8 @@
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-08-19T10:36:34.586Z",
-        "lastModified": "2022-08-19T10:36:34.586Z",
+        "createdAt": "2022-08-19T10:50:31.858Z",
+        "lastModified": "2022-08-19T10:50:31.858Z",
         "size": 408,
         "formattedSize": "408 Bytes"
       }
@@ -51,8 +51,8 @@
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-08-19T10:36:34.586Z",
-        "lastModified": "2022-08-19T10:36:34.586Z",
+        "createdAt": "2022-08-19T10:50:31.858Z",
+        "lastModified": "2022-08-19T10:50:31.858Z",
         "size": 435,
         "formattedSize": "435 Bytes"
       }
@@ -74,15 +74,15 @@
       "excerpt": "<p>Task 9 Description</p>",
       "meta": {
         "relativePath": "gitModule/3-learningGitHub.html",
-        "createdAt": "2022-08-19T10:36:34.586Z",
-        "lastModified": "2022-08-19T10:36:34.586Z",
+        "createdAt": "2022-08-19T10:50:31.858Z",
+        "lastModified": "2022-08-19T10:50:31.858Z",
         "size": 464,
         "formattedSize": "464 Bytes"
       }
     },
     {
       "id": "javaBasics",
-      "contents": "<h2 id=\"task-13\">Task 13</h2>\n<p>Task 13 Description 漢字</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-14\">Task 14</h2>\n<p>Task 14 Description 漢字</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-15\">Task 15</h2>\n<h2 id=\"task-16\">Task 16</h2>\n<p>Task 16 Description ✨</p>\n<p><em>Framework</em></p>\n",
+      "contents": "",
       "moduleId": "javaBasics",
       "title": "Java Basics",
       "moduleDescription": "Java Basics module description",
@@ -95,13 +95,13 @@
       "difficulty": "Easy",
       "duration": "Long",
       "comments": 17,
-      "excerpt": "<p>Task 13 Description &#x6F22;&#x5B57;</p>",
+      "excerpt": "",
       "meta": {
         "relativePath": "gitModule/4-javaBasics.html",
-        "createdAt": "2022-08-19T10:36:34.586Z",
-        "lastModified": "2022-08-19T10:36:34.586Z",
-        "size": 419,
-        "formattedSize": "419 Bytes"
+        "createdAt": "2022-08-19T10:50:31.858Z",
+        "lastModified": "2022-08-19T10:50:31.858Z",
+        "size": 241,
+        "formattedSize": "241 Bytes"
       }
     },
     {
@@ -122,8 +122,8 @@
       "excerpt": "<p>Task 17 Description</p>",
       "meta": {
         "relativePath": "gitModule/5-javaScriptBasics.html",
-        "createdAt": "2022-08-19T10:36:34.586Z",
-        "lastModified": "2022-08-19T10:36:34.586Z",
+        "createdAt": "2022-08-19T10:50:31.858Z",
+        "lastModified": "2022-08-19T10:50:31.858Z",
         "size": 496,
         "formattedSize": "496 Bytes"
       }
@@ -146,8 +146,8 @@
       "excerpt": "<p>Task 21 Description</p>",
       "meta": {
         "relativePath": "gitModule/6-cssBasics.html",
-        "createdAt": "2022-08-19T10:36:34.586Z",
-        "lastModified": "2022-08-19T10:36:34.586Z",
+        "createdAt": "2022-08-19T10:50:31.858Z",
+        "lastModified": "2022-08-19T10:50:31.858Z",
         "size": 465,
         "formattedSize": "465 Bytes"
       }
@@ -169,8 +169,8 @@
       "excerpt": "<p>Task 25 Description</p>",
       "meta": {
         "relativePath": "gitModule/7-introduceIde.html",
-        "createdAt": "2022-08-19T10:36:34.586Z",
-        "lastModified": "2022-08-19T10:36:34.586Z",
+        "createdAt": "2022-08-19T10:50:31.858Z",
+        "lastModified": "2022-08-19T10:50:31.858Z",
         "size": 459,
         "formattedSize": "459 Bytes"
       }
