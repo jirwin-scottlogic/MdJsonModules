@@ -33,3 +33,45 @@ Task 27 Description
 Task 28 Description
 
 *Framework*
+
+## Task 29
+
+Task 29 Description
+
+*Framework*
+
+## Task 30
+
+Task 30 Description
+
+*Framework*
+
+## Task 31
+
+Task 31 Description
+
+*Framework*
+
+## Task 32
+
+Task 32 Description
+
+*Framework*
+
+## Task 33
+
+Task 33 Description
+
+*Framework*
+
+## Task 34
+
+Task 34 Description
+
+*Framework*
+
+## Task 35
+
+Task 35 Description
+
+*Framework*
