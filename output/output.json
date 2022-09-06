@@ -29,8 +29,8 @@
       "excerpt": "<p>Task 1 Description</p>",
       "meta": {
         "relativePath": "gitModule/1-setupGit.html",
-        "createdAt": "2022-08-19T10:50:31.858Z",
-        "lastModified": "2022-08-19T10:50:31.858Z",
+        "createdAt": "2022-09-06T10:23:26.639Z",
+        "lastModified": "2022-09-06T10:23:26.639Z",
         "size": 408,
         "formattedSize": "408 Bytes"
       }
@@ -51,8 +51,8 @@
       "excerpt": "<p>Task 5 Description</p>",
       "meta": {
         "relativePath": "gitModule/2-learningGit.html",
-        "createdAt": "2022-08-19T10:50:31.858Z",
-        "lastModified": "2022-08-19T10:50:31.858Z",
+        "createdAt": "2022-09-06T10:23:26.639Z",
+        "lastModified": "2022-09-06T10:23:26.639Z",
         "size": 435,
         "formattedSize": "435 Bytes"
       }
@@ -74,8 +74,8 @@
       "excerpt": "<p>Task 9 Description</p>",
       "meta": {
         "relativePath": "gitModule/3-learningGitHub.html",
-        "createdAt": "2022-08-19T10:50:31.858Z",
-        "lastModified": "2022-08-19T10:50:31.858Z",
+        "createdAt": "2022-09-06T10:23:26.639Z",
+        "lastModified": "2022-09-06T10:23:26.639Z",
         "size": 464,
         "formattedSize": "464 Bytes"
       }
@@ -98,8 +98,8 @@
       "excerpt": "",
       "meta": {
         "relativePath": "gitModule/4-javaBasics.html",
-        "createdAt": "2022-08-19T10:50:31.858Z",
-        "lastModified": "2022-08-19T10:50:31.858Z",
+        "createdAt": "2022-09-06T10:23:26.639Z",
+        "lastModified": "2022-09-06T10:23:26.639Z",
         "size": 241,
         "formattedSize": "241 Bytes"
       }
@@ -122,8 +122,8 @@
       "excerpt": "<p>Task 17 Description</p>",
       "meta": {
         "relativePath": "gitModule/5-javaScriptBasics.html",
-        "createdAt": "2022-08-19T10:50:31.858Z",
-        "lastModified": "2022-08-19T10:50:31.858Z",
+        "createdAt": "2022-09-06T10:23:26.639Z",
+        "lastModified": "2022-09-06T10:23:26.639Z",
         "size": 496,
         "formattedSize": "496 Bytes"
       }
@@ -146,15 +146,15 @@
       "excerpt": "<p>Task 21 Description</p>",
       "meta": {
         "relativePath": "gitModule/6-cssBasics.html",
-        "createdAt": "2022-08-19T10:50:31.858Z",
-        "lastModified": "2022-08-19T10:50:31.858Z",
+        "createdAt": "2022-09-06T10:23:26.639Z",
+        "lastModified": "2022-09-06T10:23:26.639Z",
         "size": 465,
         "formattedSize": "465 Bytes"
       }
     },
     {
       "id": "introduceIde",
-      "contents": "<h2 id=\"task-25\">Task 25</h2>\n<p>Task 25 Description</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-26\">Task 26</h2>\n<p>Task 26 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-27\">Task 27</h2>\n<p>Task 27 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-28\">Task 28</h2>\n<p>Task 28 Description</p>\n<p><em>Framework</em></p>\n",
+      "contents": "<h2 id=\"task-25\">Task 25</h2>\n<p>Task 25 Description</p>\n<p><em>Tags, Metadata</em></p>\n<h2 id=\"task-26\">Task 26</h2>\n<p>Task 26 Description</p>\n<p><em>Framework, Testing, Other</em></p>\n<h2 id=\"task-27\">Task 27</h2>\n<p>Task 27 Description</p>\n<p><em>Tags, Metadata, Framework, Testing, Other</em></p>\n<h2 id=\"task-28\">Task 28</h2>\n<p>Task 28 Description</p>\n<p><em>Framework</em></p>\n<h2 id=\"task-29\">Task 29</h2>\n<p>Task 29 Description</p>\n<p><em>Framework</em></p>\n<h2 id=\"task-30\">Task 30</h2>\n<p>Task 30 Description</p>\n<p><em>Framework</em></p>\n<h2 id=\"task-31\">Task 31</h2>\n<p>Task 31 Description</p>\n<p><em>Framework</em></p>\n<h2 id=\"task-32\">Task 32</h2>\n<p>Task 32 Description</p>\n<p><em>Framework</em></p>\n<h2 id=\"task-33\">Task 33</h2>\n<p>Task 33 Description</p>\n<p><em>Framework</em></p>\n<h2 id=\"task-34\">Task 34</h2>\n<p>Task 34 Description</p>\n<p><em>Framework</em></p>\n<h2 id=\"task-35\">Task 35</h2>\n<p>Task 35 Description</p>\n<p><em>Framework</em></p>\n",
       "moduleId": "introduceIde",
       "title": "Introduce IDE",
       "moduleDescription": "Introduce IDE description",
@@ -169,10 +169,10 @@
       "excerpt": "<p>Task 25 Description</p>",
       "meta": {
         "relativePath": "gitModule/7-introduceIde.html",
-        "createdAt": "2022-08-19T10:50:31.858Z",
-        "lastModified": "2022-08-19T10:50:31.858Z",
-        "size": 459,
-        "formattedSize": "459 Bytes"
+        "createdAt": "2022-09-06T10:23:26.639Z",
+        "lastModified": "2022-09-06T10:23:26.639Z",
+        "size": 781,
+        "formattedSize": "781 Bytes"
       }
     }
   ]
