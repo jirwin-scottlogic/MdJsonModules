@@ -8,6 +8,7 @@ parentId: ""
 difficulty: Hard
 duration: Medium
 comments: 0
+moduleTags: [Github]
 ---
 
 ## Task 1
