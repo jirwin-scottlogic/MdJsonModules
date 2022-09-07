@@ -3,8 +3,8 @@ id: newNode
 moduleId: newNode
 title: new node
 moduleDescription: Setup node description
-dependencies: []
-parentId: ""
+dependencies: [newparent]
+parentId: "newparent"
 difficulty: Easy
 duration: Medium
 comments: 0
