@@ -8,7 +8,7 @@ parentId: "learningGitHub"
 difficulty: Hard
 duration: Hard
 comments: 1
-
+moduleTags: [Github]
 ---
 
 ## Task 21
