@@ -8,6 +8,7 @@ parentId: "learningGit"
 difficulty: Easy
 duration: Short
 comments: 1
+moduleTags: [Github]
 ---
 
 ## Task 25
