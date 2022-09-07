@@ -8,6 +8,7 @@ parentId: "newparent"
 difficulty: Easy
 duration: Medium
 comments: 0
+moduleTags: [Github]
 ---
 
 ## Task 105
