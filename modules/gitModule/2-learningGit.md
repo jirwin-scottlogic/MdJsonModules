@@ -8,6 +8,7 @@ parentId: "setupGit"
 difficulty: Hard
 duration: Medium
 comments: 1
+moduleTags: [Github]
 ---
 
 ## Task 5
