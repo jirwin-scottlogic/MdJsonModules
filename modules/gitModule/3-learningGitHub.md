@@ -8,6 +8,7 @@ parentId: "learningGit"
 difficulty: Medium
 duration: Medium
 comments: 2
+moduleTags: [Github]
 ---
 
 ## Task 9
