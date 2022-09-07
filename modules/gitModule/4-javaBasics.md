@@ -8,6 +8,7 @@ parentId: "learningGitHub"
 difficulty: Easy
 duration: Long
 comments: 17
+moduleTags: [Github]
 ---
 
 
