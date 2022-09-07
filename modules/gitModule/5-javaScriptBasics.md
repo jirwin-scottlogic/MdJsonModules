@@ -8,6 +8,7 @@ parentId: "learningGitHub"
 difficulty: Medium
 duration: Medium
 comments: 1
+moduleTags: [Github]
 ---
 
 ## Task 17
